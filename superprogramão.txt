@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+	printf("olá aqui é o goku, midira, é o léo mesmo");
+
+	return 0;
+}
